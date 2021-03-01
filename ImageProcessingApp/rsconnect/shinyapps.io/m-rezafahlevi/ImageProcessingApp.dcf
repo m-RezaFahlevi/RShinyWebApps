@@ -1,0 +1,12 @@
+name: ImageProcessingApp
+title: ImageProcessingApp
+username:
+account: m-rezafahlevi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3560394
+bundleId: 4167796
+url: https://m-rezafahlevi.shinyapps.io/ImageProcessingApp/
+when: 1612198829.37007
+asMultiple: FALSE
+asStatic: FALSE
